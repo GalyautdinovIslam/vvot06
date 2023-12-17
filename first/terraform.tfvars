@@ -1,0 +1,20 @@
+# personality
+tg_key        = "6894081840:AAGIhBCgEL4Eyrvb0tUTRcJhrg5e5i8I1E4"
+cloud_id      = "b1g71e95h51okii30p25"
+folder_id     = "b1gah9n6ffqj186t8rop"
+# common
+zone          = "ru-central1-a"
+location      = "ru-central1"
+# naming
+bucket_photo  = "vvot06-photo"
+bucket_faces  = "vvot06-faces"
+db            = "vvot06-db-photo-face"
+queue_task    = "vvot06-task"
+fdf           = "vvot06-face-detection"
+fcf           = "vvot06-face-cut"
+tgbf          = "vvot06-boot"
+photo_trigger = "vvot06-photo"
+queue_trigger = "vvot06-task"
+gateway       = "vvot06-apigw"
+tag           = "vvot06"
+docker_registry = "vvot06-registry"

@@ -1,0 +1,7 @@
+.idea
+first/output
+first/.terraform
+first/.terraform.lock.hcl
+first/.terraform.tfstate.*
+first/terraform.tfstate
+first/terraform.tfstate.*
